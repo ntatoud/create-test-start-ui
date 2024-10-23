@@ -1,5 +1,11 @@
 # create-test-start-ui
 
+## 0.1.2
+
+### Patch Changes
+
+- 59d7450: Add build folder to .gitignore
+
 ## 0.1.1
 
 ### Patch Changes
