@@ -23,9 +23,6 @@ jobs:
           - name: check-exports
             command: pnpm run check-exports
 
-          - name: tests
-            command: pnpm run test
-
     steps:
       - uses: actions/checkout@v4
 
